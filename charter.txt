@@ -9,7 +9,7 @@ Checking Teams every 12 hours
 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):
 - Tests and code have been written
-- Both pushed to branch with review
+- Both pushed to branch with review by at least 2 team members
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
 - Round table of what we did last time, what we're doing, and what impedes us
