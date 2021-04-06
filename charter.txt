@@ -1,18 +1,33 @@
-<group name>
+Group(tm)
 
 
 Availability for meeting expectations:
+9-9:30 AM
 
 Response time to communication expectations:
+Checking Teams every 12 hours
 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):
+- Tests and code have been written
+- Both pushed to branch with review
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
+- Round table of what we did last time, what we're doing, and what impedes us
+- Update task board once per meeting and when a task is complete
+- Meet once a week, to be adjusted as necessary
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
-a. if you adopt such a policy during the initial meeting, put it here
+1.) Bring up policy
+2.) Raise any objections
+3.) Adopt policy if there are no major objections
+
+Policies:
+- Always commit legible, commented code
 
 Procedure for handling a member who is not meeting expectations:
-a. must include at least 3 actions before involving the instructor
+1.) Verbal warning during SCRUM meeting
+2.) A more vigorous verbal warning
+3.) Specific attention through Trello
+4.) Notify Apoorv
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
