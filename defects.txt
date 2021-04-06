@@ -1,0 +1,5 @@
+1. name your group, maybe just the group number.
+2. confirm of meeting time is everyday.
+3. consider editing definition of done for being approved by all team members.
+4. add your meeting time to policies as it is possibly subject to change.
+5. add group members name and emails to the top of the list.
